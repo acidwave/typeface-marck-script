@@ -1,0 +1,26 @@
+{
+  "name": "@acidwave/typeface-marck-script",
+  "version": "1.0.0",
+  "description": "Marck Script typeface Cyrillic",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acidwave/typeface-marck-script.git"
+  },
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "marck-script"
+  ],
+  "author": "Timur Akmalov <me@acidwave.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acidwave/typeface-marck-script/issues"
+  },
+  "homepage": "https://github.com/acidwave/typeface-marck-script#readme"
+}
